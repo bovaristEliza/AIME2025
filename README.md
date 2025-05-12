@@ -20,4 +20,4 @@ This paper presents a novel approach to handle uncertain, noisy and incomplete b
 ---
 
 ## Camera Ready version
-[Read the full paper](.pdf)
+[Read the full paper](AIME2025_sub95.pdf)
