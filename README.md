@@ -1,5 +1,5 @@
 # AIME2025 - 23rd International Conference on Artificial Intelligence in Medicine
-### avia, Italy on June 23-26, 2025
+### Pavia, Italy on June 23-26, 2025
 
 # Discovery of logic-probabilistic rules from COVID-19 vaccine antibody response in older people: results from the GeroCovid VAX Study
 
