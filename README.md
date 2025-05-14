@@ -1,4 +1,4 @@
-# AIME2025
+# AIME2025 - 23rd International Conference on Artificial Intelligence in Medicine
 
 # Discovery of logic-probabilistic rules from COVID-19 vaccine antibody response in older people: results from the GeroCovid VAX Study
 
